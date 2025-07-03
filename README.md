@@ -28,6 +28,8 @@ Palmoria Group complies with the organizational standard of a $90,000 minimum sa
 However,654 employeed are currently below this threshold, indicating a potential compliance or policy enforcement area -but this issues affects both genders, not specific to one.
 ### Total compensation paid (incuding bonuses):$71.92million.
 
+ To see the Data transformation and dashboard [c;/users/DELL/DOCUMENTS/INCUBATOR PROJECT ASSIGNMENT.pbix] (download here)
+
 
 # CONCLUSION:
 The data from palmoria group clearly demonstrates that the organization fosters a culture of gender equality. Across all HR metrics- including workforce composition, performance evaluation, and salary distribution. There is no evidence of gender bias or inequality.
